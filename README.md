@@ -24,7 +24,7 @@ A full-featured Django web application for managing a collection of books. Users
 
 ---
 
-## 📂 Screen Shots
+## 📸 Screenshots
 
 ![HomePage - No Filter](https://github.com/user-attachments/assets/798285b1-ac0e-4d77-a0bf-50c5e8ebb412)
 
@@ -42,4 +42,21 @@ A full-featured Django web application for managing a collection of books. Users
 
 ---
 
+### 🚀 How to Run This Project
+
+```bash
+# Clone the repository
+git clone https://github.com/tayyab-balti/qrcodegenerator.git
+
+# Set Up Virtual Environment
+python -m venv venv
+
+# On Windows:
+venv\Scripts\activate    
+
+# Run the Development Server
+python manage.py runserver
+
+# Visit in Browser
+http://127.0.0.1:8000/
 
